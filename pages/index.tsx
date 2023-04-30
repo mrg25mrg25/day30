@@ -2,7 +2,10 @@ import React from 'react'
 
 const index = () => {
   return (
-    <div>jaw muri khaw miya</div>
+    <div>
+      <p>it h00</p>
+      <h1> lets move </h1>
+    </div>
   )
 }
 
